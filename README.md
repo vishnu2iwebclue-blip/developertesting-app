@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CRM Pro Mobile Prototype v2
 
 ## Quick Start
@@ -47,3 +48,25 @@ All data is stored in localStorage — no server needed.
 - user-edit.html
 - css/style.css
 - js/app.js
+=======
+# developertesting-app
+developertesting app
+
+Folder bnega 
+Usme apna folder upload krna h 
+
+
+
+git status
+
+git add .
+
+git commit -m "Initial commit"
+
+git branch -M main
+
+git push -u origin main 
+
+
+Then ye  command run krna h.
+>>>>>>> b3b26170e956de56e51cb6ce370a1e3666c50ace
